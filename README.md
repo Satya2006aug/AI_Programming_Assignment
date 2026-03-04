@@ -16,5 +16,5 @@ tic_tac_toe_bfs_dfs.py - implemented BFS/DFS search methods on tic tac toe
 Report_turing_CAPTCHA_bfs_dfs.pdf - report covering Turing Test, CAPTCHA, BFS, DFS
 
 # How to Run
-Run the AQI agent with: python3 agent.py
+Run the AQI agent with: python3 agent.py       
 Run the BFS/DFS with: python3 tic_tac_toe_bfs_dfs.py
