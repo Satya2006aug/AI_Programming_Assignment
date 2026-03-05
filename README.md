@@ -3,10 +3,11 @@ This repository contains implementations for the AI Programming assignment-2.
 
 ## Contents
 1. Simple Reflex Agent for AQI monitoring
+   - Group: Satya Vemula (SE24UCSE054), Aadya Kamani (SE24UCSE074), Kundana Reddy (SE24UCSE059)
    - Calculates AQI using pollutant data
    - Applies traffic restrictions based on AQI levels
-2. Turing Test and CAPTCHA architecture design
-3. BFS and DFS implementation for Tic Tac Toe
+3. Turing Test and CAPTCHA architecture design
+4. BFS and DFS implementation for Tic Tac Toe
 
 ## Files
 agent.py - AQI-based traffic control agent  
